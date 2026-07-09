@@ -10,3 +10,8 @@ I am learning:
 - Version Control
 
 Created on my first day using GitHub.
+## Goals
+
+- Learn Git
+- Learn GitHub
+- Build projects
