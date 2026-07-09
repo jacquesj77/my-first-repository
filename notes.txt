@@ -1,0 +1,6 @@
+Today I learned:
+
+- What Git is
+- What GitHub is
+- How to create a repository
+- How commits work
